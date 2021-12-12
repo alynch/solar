@@ -10,6 +10,11 @@
 [Robust, real-time and autonomous monitoring of ecosystems with an open, low-cost, networked device](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13089)
 
 
+Characterizing soundscapes across diverse ecosystems using a universal acoustic feature set
+Sarab S. Sethi, Nick S. Jones, Ben D. Fulcher, Lorenzo Picinali, Dena Jane Clink, Holger Klinck, C. David L. Orme, Peter H. Wrege, Robert M. Ewers
+Proceedings of the National Academy of Sciences Jul 2020, 117 (29) 17049-17055; 
+DOI: 10.1073/pnas.2004702117
+https://www.pnas.org/content/117/29/17049
 
 
 ## Power consumption
