@@ -1,8 +1,9 @@
-# Random thoughts on remote solar server
-Acoustic Recording Devices (ARD)
+# Acoustic Recording Devices (ARD)
 
-Preamble
+## Preamble
+
 This pilot project will be proof of concept for a low cost bird monitoring program for conservation groups engaged in volunteer stewardship of natural areas in the GTA.
+
 Natural areas and ravine. Many sites across the GTA; too many for City staff to restore and monitor.
 Volunteers are being encouraged to adopt and restore pieces of the system. Toronto Nature Stewards Restoration sites.
 In addition to restoration, Monitoring sites is important to assess progress and evaluate methods.
