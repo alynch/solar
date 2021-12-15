@@ -30,3 +30,9 @@ https://www.voltaicsystems.com/blog/solar-powered-bird-feeder-for-biological-res
 https://www.voltaicsystems.com/blog/monitoring-illegal-logging-poaching-solar/
 
 http://www.earth.org.uk/note-on-Raspberry-Pi-setup.html
+
+## Cases and Dry Boxes
+
+https://nanukcases.ca/collections/small-cases/products/nanuk-905
+Quebec company, about $65, but sturdy. Wondering if squirrels and racoons might be a problem with simpler types.
+
