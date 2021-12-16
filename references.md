@@ -20,6 +20,7 @@ https://www.pnas.org/content/117/29/17049
 ## Power consumption
 https://raspberrypi.stackexchange.com/questions/5033/how-much-energy-does-the-raspberry-pi-consume-in-a-day
 
+https://uk.pi-supply.com/products/pijuice-solar
 
 ## Rpi projects 
 
