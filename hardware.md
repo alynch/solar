@@ -3,14 +3,14 @@
 
 ## Microphones
 
-RØDE smartLav+ Smartphone Lavalier Microphone with TRRS Connector*  | $90
-Audio-Technica AT2005USB. Bigger. | $110
-Shure MVL  |  $80
-Movo PM10  | $25
+* RØDE smartLav+ Smartphone Lavalier Microphone with TRRS Connector  | $90
+* Audio-Technica AT2005USB. Bigger. | $110
+* Shure MVL  |  $80
+* Movo PM10  | $25
 
-* Borneo guys use this. Gets well rated in reviews.
+ Borneo guys use the RODE. Gets well rated in reviews.
 
-## Access Point notesWe
+## Access Point notes
 
 We need a device that can work as a wireless access point. Ideally we can flush
 the firmware so that we can install a custom linux firmware.
