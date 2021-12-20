@@ -1,5 +1,17 @@
 # Hardware
 
+
+## Microphones
+
+RØDE smartLav+ Smartphone Lavalier Microphone with TRRS Connector*  | $90
+Audio-Technica AT2005USB. Bigger. | $110
+Shure MVL  |  $80
+Movo PM10  | $25
+
+* Borneo guys use this. Gets well rated in reviews.
+
+## Access Point notesWe
+
 We need a device that can work as a wireless access point. Ideally we can flush
 the firmware so that we can install a custom linux firmware.
 
@@ -7,7 +19,7 @@ There are several linux-based systems tat we could use: Tomato-RT, DD-wrt,
 OpenWrt. OpenWrt seems to be the most flexible, and therefore it's the system
 we are using.
 
-We need to use harware that is compatible with OpenWrt (supported chip, enough
+We need to use hardware that is compatible with OpenWrt (supported chip, enough
 flash memory, etc) and that has the capability to accept external storage (via
 USB, Compact Flash, etc.).
 
