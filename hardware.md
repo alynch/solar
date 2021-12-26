@@ -10,6 +10,9 @@
 
  Borneo guys use the RODE. Gets well rated in reviews.
  
+ Extension cord for lavalier microphone:  eg. Rode SC1 TRRS Extension Cable for SmartLav+ Microphone, 20 Feet 
+ [this might allow the microphone to be situated independent of the other devices. Run the extension down tree. ]
+ 
 ## Tree Mount and Straps
  
  VOLT® Tree Strap Mounting Kit Brass. Ratcheting strap mounting kit for fast and secure fixture mounting in trees
