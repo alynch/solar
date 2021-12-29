@@ -28,6 +28,7 @@ Saferoller tree clamp
 https://www.kanopeo.com/en/continuous-belay-system/saferoller/products/5-treeclamp.php
 
 [I like this setup]
+![Saferoller tree clamp](images/saferoller-tree-clamp.jpg)
 
 ## Access Point notes
 
