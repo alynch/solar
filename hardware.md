@@ -23,6 +23,11 @@ Slackers Build a Branch
 
  https://b4adventure.com/products/slackers-build-a-branch-swing-tree-backyard-adventure-kids-outdoor-toy
  
+Saferoller tree clamp
+
+https://www.kanopeo.com/en/continuous-belay-system/saferoller/products/5-treeclamp.php
+
+[I like this setup]
 
 ## Access Point notes
 
