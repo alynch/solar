@@ -3,11 +3,9 @@
 
 ## Microphones
 
-* Audio-Technica AT2005USB. Bigger. | $110
-* Shure MVL  |  $80
 
 
-Make&Model	Type	Freq	Sensitivity		Price	Notes
+Make&Model	|	Type |		Freq 	|	Sensitivity		|	Price	|	Notes
 
 *	RØDE smartLav+	omni	60Hz - 18kHz	-35 dB	$100	Powered from iPhone TRRS socket (2.7V). lavalier style.
 
@@ -23,9 +21,13 @@ Make&Model	Type	Freq	Sensitivity		Price	Notes
 ## Comments
 
 RODE. The Borneo guys use the RODE. Gets well rated in reviews.
+
 Polsen. Cheap, but doesnt rate great on sensitivity.
+
 Amazon Desktop Mini. Built for podcasting but gets good reviews.
+
 Movo PM10. Cheap and good sensitivity. Ships from US Amazon.
+
 Clippy EM272. This is the DIY option. Highly recommended by guys doing natural history recordings. Maybe down the line when we need a number of cheap but excellent microphones we go this route.
 
  
