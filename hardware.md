@@ -5,17 +5,13 @@
 
 
 
-Make&Model	|	Type |		Freq 	|	Sensitivity		|	Price	|	Notes
-
-*	RØDE smartLav+	omni	60Hz - 18kHz	-35 dB	$100	Powered from iPhone TRRS socket (2.7V). lavalier style.
-
-*	Polsen MO-PL1	Omni	50Hz - 18 KHz	-54 dB 	$45	US price. lavalier
-
-*	Amazon Basics Desktop Mini Microphone		50 Hz – 18KHz	-35 dB	$70	With stand
-
-*	Movo PM10	omni	35 Hz - 18 kHz	-30 dB 	$34	Amazon ships in from US. Lavalier.
-
-*	Clippy EM272 Mono	omni	60 Hz - 18 KHz	-28 dB	$30	From UK. FEL Communications. Needs TRS to TRRS Microphone Adapter. The DIY option.
+| Make&Model	    |	Type |		Freq            	|	Sensitivity		|	Price	|	Notes |
+| -----------    |------   |--------        |--------------|-------|-------|
+|	RØDE smartLav+	| omni    |	60Hz - 18kHz	  | -35 dB	      | $100	| Powered from iPhone TRRS socket (2.7V). lavalier style.|
+|	Polsen MO-PL1	 | Omni    | 	50Hz - 18 KHz	| -54 dB 	     | $45	US price | lavalier|
+|	Amazon Basics  | Desktop Mini Microphone	 | 50 Hz – 18KHz| -35 dB	| $70	| With stand|
+|	Movo PM10      | 	omni	  | 35 Hz - 18 kHz	| -30 dB 	     | $34| 	Amazon ships in from US. Lavalier.
+|	Clippy EM272 Mono	| omni	|60 Hz - 18 KHz	 | -28 dB	      | $30	| From UK. FEL Communications. Needs TRS to TRRS Microphone Adapter. The DIY option.
 
 
 ## Comments
