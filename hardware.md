@@ -20,6 +20,11 @@
  Extension cord for lavalier microphone:  eg. Rode SC1 TRRS Extension Cable for SmartLav+ Microphone, 20 Feet 
  (this might allow the microphone to be situated independent of the other devices. Run the extension down tree.)
  
+ ## DIY microphones
+ 
+ [Building a quality USB-C microphone](https://www.youtube.com/watch?v=LoQu3XXIayc)
+ 
+ https://www.wildmountainechoes.com/equipment/diy-stereo-electret-mics-primo-em-172-capsules/
  
  
 ## Tree Mount and Straps
