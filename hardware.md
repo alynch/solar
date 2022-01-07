@@ -5,30 +5,22 @@
 
 
 
-| Make&Model	    |	Type |		Freq            	|	Sensitivity		|	Price	|	Notes |
-| -----------    |------   |--------        |--------------|-------|-------|
-|	RØDE smartLav+	| omni    |	60Hz - 18kHz	  | -35 dB	      | $100	| Powered from iPhone TRRS socket (2.7V). lavalier style.|
-|	Polsen MO-PL1	 | Omni    | 	50Hz - 18 KHz	| -54 dB 	     | $45	US price | lavalier|
-|	Amazon Basics  | Desktop Mini Microphone	 | 50 Hz – 18KHz| -35 dB	| $70	| With stand|
-|	Movo PM10      | 	omni	  | 35 Hz - 18 kHz	| -30 dB 	     | $34| 	Amazon ships in from US. Lavalier.
-|	Clippy EM272 Mono	| omni	|60 Hz - 18 KHz	 | -28 dB	      | $30	| From UK. FEL Communications. Needs TRS to TRRS Microphone Adapter. The DIY option.
+| Make&Model	    |	Type |		Freq            	|	Sensitivity		|	Price	|	Notes | Comments |
+| -----------    |------   |--------        |--------------|-------|-------|----------|
+|	RØDE smartLav+	| omni    |	60Hz - 18kHz	  | -35 dB	      | $100	| Powered from iPhone TRRS socket (2.7V). lavalier style.| The Borneo guys use the RODE. Gets well rated in reviews.| 
+|	Polsen MO-PL1	 | Omni    | 	50Hz - 18 KHz	| -54 dB 	     | $45	US price | lavalier| Cheap, but doesn't rate great on sensitivity.|
+|	Amazon Basics  | Desktop Mini Microphone	 | 50 Hz – 18KHz| -35 dB	| $70	| With stand| Built for podcasting but gets good reviews. |
+|	Movo PM10      | 	omni	  | 35 Hz - 18 kHz	| -30 dB 	     | $34| 	Amazon ships in from US. Lavalier.| Cheap and good sensitivity. Ships from US Amazon.|
+|	Clippy EM272 Mono	| omni	|60 Hz - 18 KHz	 | -28 dB	      | $30	| From UK. FEL Communications. Needs TRS to TRRS Microphone Adapter. The DIY option.| This is the DIY option. Highly recommended by guys doing natural history recordings. Maybe down the line when we need a number of cheap but excellent microphones we go this route.|
 
 
-## Comments
+## Accessories
 
-RODE. The Borneo guys use the RODE. Gets well rated in reviews.
 
-Polsen. Cheap, but doesnt rate great on sensitivity.
-
-Amazon Desktop Mini. Built for podcasting but gets good reviews.
-
-Movo PM10. Cheap and good sensitivity. Ships from US Amazon.
-
-Clippy EM272. This is the DIY option. Highly recommended by guys doing natural history recordings. Maybe down the line when we need a number of cheap but excellent microphones we go this route.
-
- 
  Extension cord for lavalier microphone:  eg. Rode SC1 TRRS Extension Cable for SmartLav+ Microphone, 20 Feet 
- [this might allow the microphone to be situated independent of the other devices. Run the extension down tree. ]
+ (this might allow the microphone to be situated independent of the other devices. Run the extension down tree.)
+ 
+ 
  
 ## Tree Mount and Straps
  
