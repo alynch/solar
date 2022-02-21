@@ -12,6 +12,7 @@
 |	Amazon Basics  | Desktop Mini Microphone	 | 50 Hz – 18KHz| -35 dB	| $70	| With stand| Built for podcasting but gets good reviews. |
 |	Movo PM10      | 	omni	  | 35 Hz - 18 kHz	| -30 dB 	     | $34| 	Amazon ships in from US. Lavalier.| Cheap and good sensitivity. Ships from US Amazon.|
 |	Clippy EM272 Mono	| omni	|60 Hz - 18 KHz	 | -28 dB	      | $30	| From UK. FEL Communications. Needs TRS to TRRS Microphone Adapter. The DIY option.| This is the DIY option. Highly recommended by guys doing natural history recordings. Maybe down the line when we need a number of cheap but excellent microphones we go this route.|
+|FIFINE K053 USB | Cardioid | 50-16kHz | -38±3dB | $18 US | Lavalier |
 
 
 ## Accessories
