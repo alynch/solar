@@ -23,3 +23,10 @@ https://www.amazon.ca/Cable-Glands-Waterproof-3-5-13mm-Protectors/dp/B088KQK2NV/
 - Gland to mount microphone https://micbooster.com/microphone-windshields/117-rugged-mount-em172-windshield.html £ 4.0
 
 https://blog.voltaicsystems.com/add-waterproof-solar-panel-connection-to-an-enclosure/
+
+
+## Cases and Dry Boxes
+
+https://nanukcases.ca/collections/small-cases/products/nanuk-905
+Quebec company, about $70, but sturdy. Wondering if squirrels and racoons might be a problem with simpler types.
+
