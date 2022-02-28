@@ -15,10 +15,11 @@
 
 
 
-| Model  | Type    | Direction| Frequenct range | Signal-to-noise | Sensitivity | Diameter | Price |
+| Model  | Type    | Direction| Frequency range | Signal-to-noise | Sensitivity | Diameter | Price |
 | -------|------   |----------|-----------------|-----------------|-------------|----------|-------|
-| Primo EM272 Z1| Electret | Omnidirectional | | 80dB (Self Noise 14dBA)| -28 dB (±3dB at 1kHz, 0dB=1V/Pa) | 10mm | £ 13.56 |
+| Primo EM272 Z1| Electret | Omnidirectional | 60 Hz - 18 KHz | 80dB (Self Noise 14dBA)| -28 dB (±3dB at 1kHz, 0dB=1V/Pa) | 10mm | £ 13.56 |
 | DOM-3027L-HD-R| Electret | Omnidirectional |20 Hz ~ 20 kHz | 77dB | -27dB ±3dB| 8mm | US $4.720 |
+| JLI-52BH | Electret | Omnidirectional | 20 Hz - 16 KHz  | >60  | 42 +/-2dB | 9.7mm | US $1.20 |
 
 
 https://micbooster.com/content/12-comparison-table-for-primo-microphone-capsules
