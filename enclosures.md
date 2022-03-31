@@ -48,3 +48,4 @@ https://blog.voltaicsystems.com/add-waterproof-solar-panel-connection-to-an-encl
 https://nanukcases.ca/collections/small-cases/products/nanuk-905
 Quebec company, about $70, but sturdy. Wondering if squirrels and racoons might be a problem with simpler types.
 
+## Distributors
