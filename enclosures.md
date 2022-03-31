@@ -19,7 +19,7 @@ We need an enclosure that can house at a minimum a Raspberry Pi (65 x 30 mm for 
 
 The first number indicates protection against solid objects (from 0 to 6).
 The second number indicates protection against liquids (from 0 to 8).
-
+IP ratings explained: | https://www.enclosurecompany.com/ip-ratings-explained.php |
 
 - IP6x: Totally protected against dust
 
@@ -49,3 +49,24 @@ https://nanukcases.ca/collections/small-cases/products/nanuk-905
 Quebec company, about $70, but sturdy. Wondering if squirrels and racoons might be a problem with simpler types.
 
 ## Distributors
+
+Hammond Enclosures
+Hammond Manufacturing Company Limited
+394 Edinburgh Rd North
+Guelph, Ontario, N1H 1E5 
+Canada
+Phone: (519) 822-2960
+https://www.hammfg.com/
+
+Currently our brand of choice. Canadian manufactured. Guelph is main office.
+
+1554 series
+Alej  got flat lid style 1554-VAL2GY. Similar sized models: 1554VAGY, 1554VGY
+
+The 1555 series is a flanged lid that looks promising except that they don’t do a large version. So suggest that we look at “feet” for the 1554 series.
+
+Accessories
+There is a “foot kit” accessory which can help wall mount. 
+Part No: 1554FT. (set of 4). Ordered from Sayal
+
+ 
