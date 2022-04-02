@@ -13,6 +13,7 @@ We need an enclosure that can house at a minimum a Raspberry Pi (65 x 30 mm for 
 | Zulkit        | 200 x 120 x 75mm | IP65       | $18   | ABS Electrical Junction box Black | https://www.amazon.ca/Zulkit-Waterproof-Electronic-Enclosure-100x68x50mm/dp/B07RT6NWTR/|
 | Zulkit        | 255 x 175 x 87mm | IP65       | $30   | ABS Electrical Junction box Black | https://www.amazon.ca/Zulkit-Waterproof-Electronic-Enclosure-100x68x50mm/dp/B07RT6NWTR/|
 | Fielect | 200 x 150 x 100mm |  IP67 | $24 | ABS Plastic Project Box Enclosure | https://www.amazon.ca/Fielect-Waterproof-Electronic-Enclosure-200x150x100mm/dp/B07ZLMCK6C/|
+| Hammond | 238.76 x 160.02 x 59.94mm |  IP68 | $50 | Plastic, Polycarbonate | https://www.digikey.ca/en/products/detail/hammond-manufacturing/1554VAL2GY/13165456|
 
 
 ## IP  (Ingress Protection) ratings
