@@ -13,7 +13,16 @@ We need an enclosure that can house at a minimum a Raspberry Pi (65 x 30 mm for 
 | Zulkit        | 200 x 120 x 75mm | IP65       | $18   | ABS Electrical Junction box Black | https://www.amazon.ca/Zulkit-Waterproof-Electronic-Enclosure-100x68x50mm/dp/B07RT6NWTR/|
 | Zulkit        | 255 x 175 x 87mm | IP65       | $30   | ABS Electrical Junction box Black | https://www.amazon.ca/Zulkit-Waterproof-Electronic-Enclosure-100x68x50mm/dp/B07RT6NWTR/|
 | Fielect | 200 x 150 x 100mm |  IP67 | $24 | ABS Plastic Project Box Enclosure | https://www.amazon.ca/Fielect-Waterproof-Electronic-Enclosure-200x150x100mm/dp/B07ZLMCK6C/|
-| Hammond | 238.76 x 160.02 x 59.94mm |  IP68 | $50 | Plastic, Polycarbonate | https://www.digikey.ca/en/products/detail/hammond-manufacturing/1554VAL2GY/13165456|
+| Hammond 1554 series| 238.76 x 160.02 x 59.94mm |  IP68 | $50 | Plastic, Polycarbonate | https://www.digikey.ca/en/products/detail/hammond-manufacturing/1554VAL2GY/13165456|
+
+1554 series
+Alej  got flat lid style 1554-VAL2GY. Similar sized models: 1554VAGY, 1554VGY
+
+The 1555 series is a flanged lid that looks promising except that they don’t do a large version. So suggest that we look at “feet” for the 1554 series.
+
+Accessories
+There is a “foot kit” accessory which can help wall mount. 
+Part No: 1554FT. (set of 4). Ordered from Sayal
 
 
 ## IP  (Ingress Protection) ratings
@@ -53,26 +62,11 @@ Quebec company, about $70, but sturdy. Wondering if squirrels and racoons might 
 
 | Company       | Phone          | Address                  |  Notes               | URL   |
 |---------------|----------------|--------------------------|----------------------|-------|
-| Hammond       |(519) 822-2960  |Guelph, Ontario, N1H 1E5  | Currently our brand of choice | UV resistant ASA UL94-HB Plastic |https://www.hammfg.com/|
+| Hammond       |(519) 822-2960  |Guelph, ON, N1H 1E5  | Currently our brand of choice |https://www.hammfg.com/|
+| Sayal Electronics |416 494  8999 | Scarborough, ON, M1W 3K6 | Local retailer; special orders; no online payments | https://sayal.com/ |
+| Allied Electronics | (613) 228-1964 | OTTAWA, ON K1K4C1 | No warehouse, just orders. FedEx. | https://www.alliedelec.com/ |
+| A1 Electronic Parts | (416) 255-0343 | Etobicoke, ON  | Fairly local; online store | https://www.a1parts.ca/ |
+| Phidgets Inc. | +1 403 282-7335 | Calgary AB  T2H 2H9 | Shipping expensive. Need account | https://sales@phidgets.com |
+| Polycase | 1-440-934-0444 | Avon, Ohio | Looks like great site, but would be import duties etc so likely expensive per unit. |https://www.polycase.com |
+| Amazon | NA  | NA | carry some boxes | https://amazon.ca/  |
 
-
-Hammond Enclosures
-Hammond Manufacturing Company Limited
-394 Edinburgh Rd North
-Guelph, Ontario, N1H 1E5 
-Canada
-Phone: (519) 822-2960
-https://www.hammfg.com/
-
-Currently our brand of choice. Canadian manufactured. Guelph is main office.
-
-1554 series
-Alej  got flat lid style 1554-VAL2GY. Similar sized models: 1554VAGY, 1554VGY
-
-The 1555 series is a flanged lid that looks promising except that they don’t do a large version. So suggest that we look at “feet” for the 1554 series.
-
-Accessories
-There is a “foot kit” accessory which can help wall mount. 
-Part No: 1554FT. (set of 4). Ordered from Sayal
-
- 
