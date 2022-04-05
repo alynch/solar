@@ -51,6 +51,11 @@ Quebec company, about $70, but sturdy. Wondering if squirrels and racoons might 
 
 ## Distributors
 
+| Company       | Phone          | Address                  |  Notes               | URL   |
+|---------------|----------------|--------------------------|----------------------|-------|
+| Hammond       |(519) 822-2960  |Guelph, Ontario, N1H 1E5  | Currently our brand of choice | UV resistant ASA UL94-HB Plastic |https://www.hammfg.com/|
+
+
 Hammond Enclosures
 Hammond Manufacturing Company Limited
 394 Edinburgh Rd North
