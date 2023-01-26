@@ -1,2 +1,42 @@
 Project Management
 
+Pilot (begun in 2022)
+
+Evaluate battery
+Evaluate hardware for box attachments
+Mike to reset his station
+Solar panel evaluate
+Microphone evaluation
+Finalize a Mark II version
+Draft a description of setup
+Website build
+Complete Pilot date:  ?
+
+Field Test I  (Private site)
+
+A)Build the Mark II unit. 
+
+We foot bill for device parts?
+Purchase components. Hard costs. Order wait times.
+Labour costs ($0).
+Wireless costs (borne by owner)
+
+B)Arrange field test site
+Speak to steve smith about potential private landowner site
+Steve and landowner would need a project description. Draft.
+Site visit to consult on: wireless range, sunny, close to forest
+Obtain Permissions and sign-off
+Negotiate install costs with Steve. Estimate half-day, two workers.
+UFORA (Steve) would be preferred contractor if we roll out network
+
+C)Install device
+Arrange date/time. Coordinate contractor, owner, HOP
+Prep contractor, show them device, hardware etc ahead of time. Modify as needed
+Initial on-site testing, wireless connection, web server function
+
+D)Running, recording
+Monitor activity. Web
+Monitor device function, battery charge levels. Remote?
+Landowner liaison, feedback
+
+E)
